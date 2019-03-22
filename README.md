@@ -1,2 +1,3 @@
 # hello-zhazha
-just test repository
+只是测试存储库
+我叫陈嘉欣！
